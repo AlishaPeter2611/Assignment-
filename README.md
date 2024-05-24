@@ -1,5 +1,3 @@
-# Assignment 
- Qure.ai documentation project 
+# Assignment
 
-
-
+ Qure.ai documentation project
